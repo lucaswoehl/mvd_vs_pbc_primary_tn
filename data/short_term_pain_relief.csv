@@ -1,0 +1,16 @@
+study,event.e,n.e,event.c,n.c,year,sample,riskofbias,continent
+"Broggi et al., 1993",21,22,163,206,1993,228,High,Europe
+"Chen et al., 2003",108,114,120,127,2003,241,Moderate,Asia
+"Laghmari et al., 2007",48,51,39,41,2007,92,Moderate,Africa
+"Jellish et al., 2008",71,80,61,84,2008,164,Moderate,North America
+"Pagni et al., 2008",137,141,214,223,2008,364,High,Europe
+"Sandoval-Balanzario et al., 2015",57,60,11,13,2015,73,Moderate,North America
+"Chen et al., 2018",65,68,34,42,2018,110,Moderate,Asia
+"Ni et al., 2020",26,30,27,30,2020,60,Moderate,Asia
+Noorani et al. 2021,161,185,22,26,2021,211,High,Europe
+"Li et al., 2023 (1)",29,32,30,34,2023,66,Moderate,Asia
+"Li et al., 2023 (2)",43,45,52,53,2023,98,High,Asia
+Ji et al 2024,52,58,91,99,2024,157,High,Asia
+"Shi et al., 2025",51,56,56,58,2025,114,High,Asia
+"Xu et al., 2025",198,217,32,37,2025,254,High,Asia
+"Zhang et al., 2025",212,226,119,127,2025,405,Low,Asia
