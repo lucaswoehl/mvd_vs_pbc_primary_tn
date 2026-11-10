@@ -4,7 +4,7 @@ This work is currently under peer-review.
 
 The archives available here are meant to support our findings and facilitate the reproducibility of them so anyone can confirm estimates and statistical significance. 
 
-The analysis were all coded in R using the 
+The analysis were all coded in R using the *meta* and *metafor* packages in association with the packages to interact with *.csv* files available in the *data* folder.
 
 ### Data Privacy
 
